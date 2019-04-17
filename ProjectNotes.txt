@@ -1,0 +1,25 @@
+Memory map project.
+
+UART -
+  Registros necesarios
+  0x67
+
+SPI - LCD
+  Registros necesarios
+  0x68
+
+SPI - SD
+  Registros necesarios
+  0x69
+
+GPIO - GPI - Buttons
+  Registros necesarios
+  0x70
+
+I2c - ADC1/2
+  Registros necesarios
+  0x71
+
+Timer -
+  Registros necesarios
+  0x72
